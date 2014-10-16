@@ -1,0 +1,3 @@
+[submodule "unit-examples"]
+	path = unit-examples
+	url = git@github.com:coreos/unit-examples.git
